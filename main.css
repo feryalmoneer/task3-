@@ -1,0 +1,76 @@
+*
+{
+    margin: 0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.cl
+{
+    clear: both;
+}
+a{
+    text-decoration: none;
+
+}
+.containrr
+{
+    width: 80px;
+}
+
+.navbar
+{
+background-color: black;
+}
+.logo
+{
+    float: left;
+    margin-top: 8px;
+margin-left: 50px;
+
+}
+.logo img 
+{
+    width:120px;
+
+}
+.navbar.list 
+{
+    float:right; 
+    margin-top: 15px;
+   
+}
+.list ul 
+{
+    list-style-type: none;
+    float: right;
+
+}
+.list ul li
+{
+    float: left; 
+    margin-right: 30px;
+    margin-top: 4px;
+    margin-bottom: 7px;
+
+}
+.list a
+{
+    color: antiquewhite;
+    margin-right: 30px;
+}
+.Potfolio
+{
+    background-color: cornsilk;
+    text-align: center;
+}
+.potfolio-item
+{
+    float: left;
+    width: 33.33%;
+    padding-right: 10px;
+    background-color: cadetblue;
+}
+.Potfolio img{
+    display: block;
+    width:100%;
+}
